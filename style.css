@@ -19,3 +19,7 @@ i {
 .Page_bootom_footer.bg-primary {
     border-top-left-radius: 180px;
 }
+
+img.col-md-7{
+    object-fit:contain;
+}
